@@ -119,6 +119,7 @@ main {
     box-shadow: var(--shadow);
     font-size: 18px;
     color: var(--primary-text-color);
+    cursor: pointer;
 }
 
 .assuntos button div {
